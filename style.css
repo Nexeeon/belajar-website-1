@@ -1,0 +1,31 @@
+ {
+    margin: 0;
+    padding: 0;
+    font-family: Times New Roman;
+}
+
+body a {
+    text-decoration: none;
+    color: white;
+}
+
+.subtitle {
+    text-transform: uppercase;
+    color: rgb(207, 201, 201);
+    letter-spacing: 5px;
+}
+.navbar .navbar-brand img {
+    width: 38px;
+   
+}
+.jumbotron {
+    padding: 6rem;
+    background-color:rgba(0, 0, 0, 0.14);
+} 
+#projects{
+    background-color:rgba(0, 0, 0, 0.14);\
+    
+}
+section{
+    padding-top: 5rem;
+}
